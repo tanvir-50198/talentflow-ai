@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.db
+*.db-wal
+*.db-shm
+.env
+storage/cvs/*
+storage/avatars/*
+storage/logos/*
+!storage/*/.gitkeep
+.pytest_cache/
